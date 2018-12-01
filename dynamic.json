@@ -1,0 +1,41 @@
+{
+  "career":{
+    "info":"To work in environment with...."
+  },
+  "education":[
+    {
+      "degree":"B.tech(IT)",
+      "institution":"JNTUk",
+      "yop":"2020",
+      "percentage":"80"
+    },
+    {
+      "degree":"Intermediate",
+     "institution":"chaitanya",
+     "yop":"2016",
+     "percentage":"95.5"
+   },
+   {
+     "degree":"ssc",
+    "institution":"svbk",
+    "yop":"2014",
+    "percentage":"95"
+  }
+
+],
+"skills":[
+  {
+    "title":"platforms",
+    "content":"windows,Linux"
+  },
+{
+  "title":"programming languages",
+  "content":"c,java,python,HTML,CSS"
+},
+{
+  "title":"Database",
+  "content":"mysql,mongdb"
+}
+],
+"languages":"Telugu,Hindi,English"
+  }
